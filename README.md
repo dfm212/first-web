@@ -1,3 +1,3 @@
 # first-web
-this is an exercises of how to build a web site
+this is my exercises of how to build a web site
 
