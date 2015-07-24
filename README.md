@@ -1,3 +1,7 @@
 # first-web
-this is my exercises of how to build a web site
+
+this is an exercises.
+I take my new knowledge and build a website from crash
+
+using HTML5, CSS3 and boostrap
 
